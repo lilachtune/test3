@@ -1,0 +1,2 @@
+def piska():
+    print()
